@@ -32,6 +32,10 @@ Byro is built for teams whose posts need to be accurate and attributable, not fo
 - [Supergrow alternatives for B2B teams](https://byro.ee/blog/supergrow-alternatives-b2b-teams)
 - [Virio alternatives for B2B teams](https://byro.ee/blog/virio-alternatives-b2b-teams)
 - [Oiti alternatives for B2B teams](https://byro.ee/blog/oiti-alternatives-b2b-teams)
+- [Meet Sona alternatives for B2B teams](https://byro.ee/blog/meet-sona-alternatives-b2b-teams)
+- [Leaps alternatives for B2B teams](https://byro.ee/blog/leaps-alternatives-b2b-teams)
+
+All posts: [byro.ee/blog](https://byro.ee/blog)
 
 ## Research
 
@@ -50,6 +54,8 @@ Byro publishes its research methods and results openly.
 
 - [About Byro](https://byro.ee/about)
 - [Our thesis](https://byro.ee/thesis)
+- [Blog](https://byro.ee/blog)
+- [Research](https://byro.ee/research)
 - [LinkedIn](https://www.linkedin.com/company/byrosystem/)
 - [X](https://x.com/byro_ai)
 - [byro.ee/llms.txt](https://byro.ee/llms.txt)
